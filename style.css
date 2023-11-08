@@ -1,0 +1,74 @@
+
+
+.nav{background-color: #F3F3F3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.toggle{
+    margin-top: 20px;
+}
+
+.navlist{display: flex;
+    justify-content: space-between;
+    list-style: unset;
+}
+.Car{
+    margin-top: 20px;
+}
+.login{
+    background-color: unset;
+    border: none;
+    margin-top: 20px;
+}
+.Vector{
+    margin-top: 20px;
+}
+
+
+.navlist > li{
+   list-style: none;
+   background: unset;
+}
+.mainsection{background-color: #F3F3F3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+   .Comprar{
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+   padding-top: 10px;
+   padding-left: 30px;
+   padding-bottom: 10px;
+   padding-right: 30px;
+   }
+   .main{
+  margin-right: 100px;
+   }
+   .Big{
+    display: flex;
+    flex-direction: column;
+  justify-content: space-around;
+align-items: center;
+  margin-top: 50px;
+ padding-left: 50px;
+ padding-right: 50px;
+}
+   
+ img {
+    margin-right: 30px;
+    margin-bottom: 30px;
+ }
+ .OverallContainer{
+    padding-right: 30px;
+    padding-left: 30px;
+ }
